@@ -5,6 +5,3 @@ end
 while using_while < 9
    puts "Wingardium Leviosa"
 end
-
-
-
